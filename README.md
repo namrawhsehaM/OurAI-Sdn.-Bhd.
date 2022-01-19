@@ -1,6 +1,5 @@
 # Home Automation Using Artificial Intelligence
 by: OurAI Sdn. Bhd.       
-![image](https://user-images.githubusercontent.com/55396900/150108303-7213a811-2cf5-476f-80dd-3247819a3431.png)
 
 Project Members:
   1. Maheshwarman S/O Balakrishnan B031910007 (Project Manager) 
