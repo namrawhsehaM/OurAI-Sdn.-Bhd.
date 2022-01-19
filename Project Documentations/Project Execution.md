@@ -1,4 +1,3 @@
-1. System Flow
-2. Model Training
-3. Web Application
-4. Result
+1. Model Training
+2. Web Application
+3. Result
