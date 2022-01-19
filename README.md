@@ -13,7 +13,7 @@ Overview:
       and the system responds to spoken commands.
       
 Project Management Plan:
-  1. [Project Summary](https://github.com/maheshbabuwarman/OurAI-Sdn.-Bhd./blob/90272424bc2005dde101f23c656aed84a2dd6a39/Project%20Management/Project%20Summary)
+  1. Project Summary
   2. Project Planning
   3. Implementation 
   4. Project Execution
