@@ -15,6 +15,6 @@ Overview:
 Project Management Plan:
   1. Project Summary
   2. Project Planning
-  3. Implementation 
+  3. [Project Implementation](Project Documentations/Project Implementation.md)
   4. Project Execution
   5. Project Completion
