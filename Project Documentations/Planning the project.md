@@ -8,7 +8,7 @@
         
 5. Roles & Responsibilities : [Roles and Responsibility.pdf](https://github.com/maheshbabuwarman/OurAI-Sdn.-Bhd./files/7896563/Roles.and.Responsibility.pdf)
 
-<- Back to [README.md](README.md)<br/>
+<- Back to [README.md](./README.md)<br/>
 -> Proceed to [Implementing the project plan](Implementing%20the%20project.md)
       
 
