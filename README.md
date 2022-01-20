@@ -152,12 +152,21 @@ Objectives:
       
       ![image](https://user-images.githubusercontent.com/55396900/150165214-b0d69461-4ddb-46e7-b81d-fd6930707f24.png)
       
-      Objectives :
+      Objectives :  
+     
+      OurAI Sdn. Bhd. was able to achieve the objectives in order to build the proposed project, which is HOME AUTOMATION USING ARTIFICIAL INTELLIGENCE. The team have successfully implemented an artificial intelligence system that can communicate and give responses back to user. This system also able to do simple home automation tasks, and for the ease of user interaction, a simple website has been built for the system as well.
       
       Summary of Results :
       
+      The system was able to obtain audio, interpret them and give appropriate responses based on users' command.
+      
       Transition plan : 
       
+      We, from OurAI Sdn. Bhd. will provide neccessary support and guidance if requested. We will provide these following supports: <br/> 
+      a. System maintenance<br/>
+      b. System updates<br/>
+      c. User guidelines<br/>
+      d. User feedbacks<br/>
 
 4. Close Contract : 
 
