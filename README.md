@@ -24,7 +24,7 @@ Objectives:
   2. To build the system specialize in home automation tasks
   3. To develop a simple website for the system interaction with user
 
-## B. [Planning the project](./Project Documentations/Planning the project.md)
+## B. [Planning the project](https://github.com/maheshbabuwarman/OurAI-Sdn.-Bhd./blob/b1bc69126f0bff1e4e817b9cea5f0a93c8b5cdbd/Project%20Documentations/Planning%20the%20project.md)
 
 1. Project Management Life Cycle : 
      <br/> Gantt Chart :
