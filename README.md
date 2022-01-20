@@ -116,7 +116,7 @@ Objectives:
 3. Result
 
 
-## E. [Completing the project]( )
+## E. [Completing the project](https://github.com/maheshbabuwarman/OurAI-Sdn.-Bhd./blob/a2c8c2a99f7e183eb5e74c5e101662940164f0af/Project%20Documentations/Completing%20the%20project.md)
 
 1. Customer Acceptance Form : 
 
