@@ -18,24 +18,23 @@ Objectives:
   3. c
 
 ## B. Planning the project
-
-1. Gantt Chart : 
+1. Project Management Life Cycle : 
+     <br/> Gantt Chart :
       ![image](https://user-images.githubusercontent.com/55396900/150244943-91a600ca-4b7b-431f-8e4e-bf13417bd84c.png)
       ![image](https://user-images.githubusercontent.com/55396900/150245025-39e26c13-0188-465b-ae98-eac34e58210e.png)
       ![image](https://user-images.githubusercontent.com/55396900/150245124-66a19166-92be-4309-a9b6-017a4de15f94.png)
       ![image](https://user-images.githubusercontent.com/55396900/150245170-bb86070c-ccd5-4916-9fbb-2929628de325.png)
       ![image](https://user-images.githubusercontent.com/55396900/150245214-f89dabf2-0b6c-4475-aa08-f6c05afb8294.png)
 
-
-3. WBS : 
+      WBS : 
       ![image](https://user-images.githubusercontent.com/55396900/150245323-52615dfb-77c0-4acb-aff6-6cad5612743b.png)
 
 
-5. Risk Identification Chart : 
+2. Risk Identification Chart : 
       ![image](https://user-images.githubusercontent.com/55396900/150245437-0ffb9564-7394-4fb3-bd5e-0000464e045b.png)
 
       
-4. Responsibility Assignment Matrices (RAM) : 
+3. Responsibility Assignment Matrices (RAM) : 
 
 
       ![image](https://user-images.githubusercontent.com/55396900/150245547-32ef7db0-9272-4c33-ac34-f7152e1cfbd5.png)
@@ -48,7 +47,7 @@ Objectives:
 
       
      
-5. Roles & Responsibilities : 
+4. Roles & Responsibilities : 
       ![image](https://user-images.githubusercontent.com/55396900/150245818-9bde0692-ffa8-4ace-ae54-1d65d2b0f614.png)
 
 
@@ -94,6 +93,11 @@ Objectives:
 
 
 ## D. Executing the project
+1. Design
+2. Coding
+3. Result
+
+
 ## E. Completing the project
 1. Customer Acceptance Form : 
 
