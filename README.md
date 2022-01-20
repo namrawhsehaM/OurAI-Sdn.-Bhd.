@@ -24,7 +24,7 @@ Objectives:
   2. To build the system specialize in home automation tasks
   3. To develop a simple website for the system interaction with user
 
-## B. [Planning the project](https://github.com/maheshbabuwarman/OurAI-Sdn.-Bhd./blob/b1bc69126f0bff1e4e817b9cea5f0a93c8b5cdbd/Project%20Documentations/Planning%20the%20project.md)
+## B. Planning the project
 
 1. Project Management Life Cycle : 
      <br/> Gantt Chart :
@@ -72,7 +72,7 @@ Objectives:
 
 
 
-## C. [Implementing the project plan](https://github.com/maheshbabuwarman/OurAI-Sdn.-Bhd./blob/e3f7e31c9807bd560783fc9dd54c10852796da57/Project%20Documentations/Implementing%20the%20project%20plan.md)
+## C. Implementing the project plan
 
 1. Deliverables : <br/>
 
@@ -107,7 +107,7 @@ Objectives:
 
 
 
-## D. [Executing the project](https://github.com/maheshbabuwarman/OurAI-Sdn.-Bhd./blob/ef187b8d65c803ce3234ba16c1966e2d36713ab2/Project%20Documentations/Executing%20the%20project.md)
+## D. Executing the project
 
 1. Design
 
@@ -116,7 +116,7 @@ Objectives:
 3. Result
 
 
-## E. [Completing the project](https://github.com/maheshbabuwarman/OurAI-Sdn.-Bhd./blob/a2c8c2a99f7e183eb5e74c5e101662940164f0af/Project%20Documentations/Completing%20the%20project.md)
+## E. Completing the project
 
 1. Customer Acceptance Form : 
 
