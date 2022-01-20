@@ -23,7 +23,6 @@ Objectives:
 ## B. Planning the project
 
 1. Project Management Life Cycle : 
-
      <br/> Gantt Chart :
      
       ![image](https://user-images.githubusercontent.com/55396900/150244943-91a600ca-4b7b-431f-8e4e-bf13417bd84c.png)
