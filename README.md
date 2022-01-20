@@ -131,7 +131,7 @@ Objectives:
 
 
 
-3. Final Project Cost Report : 
+3. Final Project Report : 
       
       Project Cost Estimation :
       
@@ -151,10 +151,15 @@ Objectives:
       Cost Estimation Breakdown :
       
       ![image](https://user-images.githubusercontent.com/55396900/150165214-b0d69461-4ddb-46e7-b81d-fd6930707f24.png)
+      
+      Objectives :
+      
+      Summary of Results :
+      
+      Transition plan : 
+      
 
-5. Project Assesment :
-
-6. Close Contract : 
+4. Close Contract : 
 
       ![image](https://user-images.githubusercontent.com/55396900/150162653-fe0a0f64-5848-42f6-ba1e-b1759a3ee285.png)
 
