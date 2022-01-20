@@ -72,7 +72,7 @@ Objectives:
 
 
 
-## C. Implementing the project plan
+## C. [Implementing the project plan](https://github.com/maheshbabuwarman/OurAI-Sdn.-Bhd./blob/e3f7e31c9807bd560783fc9dd54c10852796da57/Project%20Documentations/Implementing%20the%20project%20plan.md)
 
 1. Deliverables : <br/>
 
