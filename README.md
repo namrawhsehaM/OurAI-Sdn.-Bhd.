@@ -62,7 +62,7 @@ Objectives:
       ![image](https://user-images.githubusercontent.com/55396900/150245818-9bde0692-ffa8-4ace-ae54-1d65d2b0f614.png)
       
 
-## C. [Implementing the project plan](Project_Documentations/Implementing_the_project_plan.md)
+## C. [Implementing the project plan](Project%20Documentations/Implementing%20the%20project%20plan.md)
 
 1. Deliverables : <br/>
 
@@ -91,7 +91,7 @@ Objectives:
       
       
 
-## D. [Executing the project](Project_Documentations/Executing_the_project.md)
+## D. [Executing the project](Project%20Documentations/Executing%20the%20project.md)
 
 1. Design
 
@@ -101,7 +101,7 @@ Objectives:
 
 
 
-## E. [Completing the project](Project_Documentations/Completing_the_project.md)
+## E. [Completing the project](Project%20Documentations/Completing%20the%20project.md)
 
 1. Customer Acceptance Form : 
 
