@@ -5,6 +5,10 @@ by: OurAI Sdn. Bhd.
 
 Project Summary:
 
+This project is focused on improve the quality of life of an user by providing home automation via voice command.
+In addition, this project also serves as a voice assistant so that users can communicate to the system audibly, and the system responds to spoken commands. The system works based on Natural Language Processing techniques, so that the 
+system can capture, interpret and execute action based on user's voice command. We developed this system in the way it could understand and communicate with appropriate responses.
+
 Customer: Symphrio Sdn. Bhd.
 
 Project Name: Home Automation using Artificial Intelligence
@@ -16,9 +20,9 @@ Project Members:
 
 Objectives:
 
-  1. a
-  2. b
-  3. c
+  1. To develop an artificial intelligence system that can communicate and give responses back to user
+  2. To build the system specialize in home automation tasks
+  3. To develop a simple website for the system interaction with user
 
 ## B. Planning the project
 
@@ -128,19 +132,24 @@ Objectives:
 
 
 3. Final Project Cost Report : 
-
+      
+      Project Cost Estimation :
+      
       ![image](https://user-images.githubusercontent.com/55396900/150164436-fe705afe-9819-4086-91d3-480366fb9352.png)
 
 
-
+      Software Development Estimate :
+      
       ![image](https://user-images.githubusercontent.com/55396900/150164637-2311f0f4-8ab2-4ac9-a407-2e3a6f9d959d.png)
 
 
-
+      Net Present Value (NPV) :
+      
       ![image](https://user-images.githubusercontent.com/55396900/150164861-a6c90446-8b99-45b1-b860-b7fc363b7d49.png)
 
 
-
+      Cost Estimation Breakdown :
+      
       ![image](https://user-images.githubusercontent.com/55396900/150165214-b0d69461-4ddb-46e7-b81d-fd6930707f24.png)
 
 5. Project Assesment :
