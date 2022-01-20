@@ -74,7 +74,8 @@ Objectives:
    h. Fully Completed System<br/>
    
 2. Cost Estimation : 
-         ![project cost estimation](https://user-images.githubusercontent.com/55396900/150246566-6877e386-330a-4a08-9cec-8e661b3e4fa7.jpg)
+
+      ![project cost estimation](https://user-images.githubusercontent.com/55396900/150246566-6877e386-330a-4a08-9cec-8e661b3e4fa7.jpg)
 
 3. Process Group Timeline : 
          ![image](https://user-images.githubusercontent.com/55396900/150247136-79ad84d5-61bb-4987-89fd-b396e24cd28e.png)
