@@ -77,7 +77,7 @@ Objectives:
 
       ![project cost estimation](https://user-images.githubusercontent.com/55396900/150246566-6877e386-330a-4a08-9cec-8e661b3e4fa7.jpg)
 
-3. Process Group Timeline : 
+3. Milestone Chart : 
          ![image](https://user-images.githubusercontent.com/55396900/150247136-79ad84d5-61bb-4987-89fd-b396e24cd28e.png)
          ![image](https://user-images.githubusercontent.com/55396900/150247226-4ca5ac4e-47f5-4ff0-8cdb-30259ad6a802.png)
 
