@@ -24,7 +24,7 @@ Objectives:
   2. To build the system specialize in home automation tasks
   3. To develop a simple website for the system interaction with user
 
-## B. Planning the project
+## B. [Planning the project](Project_Documentations/Planning_the_project.md)
 
 1. Project Management Life Cycle : 
      <br/> Gantt Chart :
@@ -57,22 +57,12 @@ Objectives:
       ![image](https://user-images.githubusercontent.com/55396900/150245636-5881153a-e507-45db-859c-81dda0afe677.png)
 
       
-     
 4. Roles & Responsibilities : 
 
       ![image](https://user-images.githubusercontent.com/55396900/150245818-9bde0692-ffa8-4ace-ae54-1d65d2b0f614.png)
+      
 
-
-
-
-
-
-
-
-
-
-
-## C. Implementing the project plan
+## C. [Implementing the project plan](Project_Documentations/Implementing_the_project_plan.md)
 
 1. Deliverables : <br/>
 
@@ -98,16 +88,10 @@ Objectives:
 
       ![image](https://user-images.githubusercontent.com/55396900/150247747-526f2713-df22-4500-8464-3eb58137aa7d.png)
       ![image](https://user-images.githubusercontent.com/55396900/150247611-ba78a533-0fa4-4d3a-a5af-c31f5116cf76.png)
+      
+      
 
-
-
-
-
-
-
-
-
-## D. Executing the project
+## D. [Executing the project](Project_Documentations/Executing_the_project.md)
 
 1. Design
 
@@ -116,19 +100,17 @@ Objectives:
 3. Result
 
 
-## E. Completing the project
+
+## E. [Completing the project](Project_Documentations/Completing_the_project.md)
 
 1. Customer Acceptance Form : 
 
       ![image](https://user-images.githubusercontent.com/55396900/150163066-7d38c3d6-9f86-4917-9461-0e9fee3250cf.png)
 
 
-
 2. Lesson Learned Form : 
       
       ![image](https://user-images.githubusercontent.com/55396900/150163376-fc3cd2fe-e897-4ff5-a148-aa64a0a4bcbf.png)
-
-
 
 
 3. Final Project Report : 
@@ -171,12 +153,6 @@ Objectives:
 4. Close Contract : 
 
       ![image](https://user-images.githubusercontent.com/55396900/150162653-fe0a0f64-5848-42f6-ba1e-b1759a3ee285.png)
-
-
-
-
-
-
 
 
 
