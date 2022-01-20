@@ -2,6 +2,7 @@
 by: OurAI Sdn. Bhd.       
 
 ## A. Defining the project
+
 Project Summary:
 
 Customer: Symphrio Sdn. Bhd.
@@ -9,17 +10,22 @@ Customer: Symphrio Sdn. Bhd.
 Project Name: Home Automation using Artificial Intelligence
 
 Project Members:
+
   1. Maheshwarman S/O Balakrishnan B031910007 (Project Manager) 
   2. Mohammad Tariq Ali bin Salamudeen Ali B031910049
 
 Objectives:
+
   1. a
   2. b
   3. c
 
 ## B. Planning the project
+
 1. Project Management Life Cycle : 
+
      <br/> Gantt Chart :
+     
       ![image](https://user-images.githubusercontent.com/55396900/150244943-91a600ca-4b7b-431f-8e4e-bf13417bd84c.png)
       ![image](https://user-images.githubusercontent.com/55396900/150245025-39e26c13-0188-465b-ae98-eac34e58210e.png)
       ![image](https://user-images.githubusercontent.com/55396900/150245124-66a19166-92be-4309-a9b6-017a4de15f94.png)
@@ -27,10 +33,12 @@ Objectives:
       ![image](https://user-images.githubusercontent.com/55396900/150245214-f89dabf2-0b6c-4475-aa08-f6c05afb8294.png)
 
       WBS : 
+      
       ![image](https://user-images.githubusercontent.com/55396900/150245323-52615dfb-77c0-4acb-aff6-6cad5612743b.png)
 
 
 2. Risk Identification Chart : 
+
       ![image](https://user-images.githubusercontent.com/55396900/150245437-0ffb9564-7394-4fb3-bd5e-0000464e045b.png)
 
       
@@ -48,6 +56,7 @@ Objectives:
       
      
 4. Roles & Responsibilities : 
+
       ![image](https://user-images.githubusercontent.com/55396900/150245818-9bde0692-ffa8-4ace-ae54-1d65d2b0f614.png)
 
 
@@ -63,6 +72,7 @@ Objectives:
 ## C. Implementing the project plan
 
 1. Deliverables : <br/>
+
    a. WBS Structure<br/>
    b. Gantt Chart<br/>
    c. Cost Estimation<br/>
@@ -77,12 +87,14 @@ Objectives:
       ![project cost estimation](https://user-images.githubusercontent.com/55396900/150246566-6877e386-330a-4a08-9cec-8e661b3e4fa7.jpg)
 
 3. Milestone Chart : 
-         ![image](https://user-images.githubusercontent.com/55396900/150247136-79ad84d5-61bb-4987-89fd-b396e24cd28e.png)
-         ![image](https://user-images.githubusercontent.com/55396900/150247226-4ca5ac4e-47f5-4ff0-8cdb-30259ad6a802.png)
+
+      ![image](https://user-images.githubusercontent.com/55396900/150247136-79ad84d5-61bb-4987-89fd-b396e24cd28e.png)
+      ![image](https://user-images.githubusercontent.com/55396900/150247226-4ca5ac4e-47f5-4ff0-8cdb-30259ad6a802.png)
 
 4. Time Management Gantt Chart : 
-         ![image](https://user-images.githubusercontent.com/55396900/150247747-526f2713-df22-4500-8464-3eb58137aa7d.png)
-         ![image](https://user-images.githubusercontent.com/55396900/150247611-ba78a533-0fa4-4d3a-a5af-c31f5116cf76.png)
+
+      ![image](https://user-images.githubusercontent.com/55396900/150247747-526f2713-df22-4500-8464-3eb58137aa7d.png)
+      ![image](https://user-images.githubusercontent.com/55396900/150247611-ba78a533-0fa4-4d3a-a5af-c31f5116cf76.png)
 
 
 
@@ -93,12 +105,16 @@ Objectives:
 
 
 ## D. Executing the project
+
 1. Design
+
 2. Coding
+
 3. Result
 
 
 ## E. Completing the project
+
 1. Customer Acceptance Form : 
 
       ![image](https://user-images.githubusercontent.com/55396900/150163066-7d38c3d6-9f86-4917-9461-0e9fee3250cf.png)
@@ -113,8 +129,6 @@ Objectives:
 
 
 3. Final Project Cost Report : 
-
-
 
       ![image](https://user-images.githubusercontent.com/55396900/150164436-fe705afe-9819-4086-91d3-480366fb9352.png)
 
@@ -131,6 +145,7 @@ Objectives:
       ![image](https://user-images.githubusercontent.com/55396900/150165214-b0d69461-4ddb-46e7-b81d-fd6930707f24.png)
 
 5. Project Assesment :
+
 6. Close Contract : 
 
       ![image](https://user-images.githubusercontent.com/55396900/150162653-fe0a0f64-5848-42f6-ba1e-b1759a3ee285.png)
