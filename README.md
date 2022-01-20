@@ -107,7 +107,7 @@ Objectives:
 
 
 
-## D. Executing the project
+## D. [Executing the project](https://github.com/maheshbabuwarman/OurAI-Sdn.-Bhd./blob/ef187b8d65c803ce3234ba16c1966e2d36713ab2/Project%20Documentations/Executing%20the%20project.md)
 
 1. Design
 
@@ -116,7 +116,7 @@ Objectives:
 3. Result
 
 
-## E. Completing the project
+## E. [Completing the project]( )
 
 1. Customer Acceptance Form : 
 
