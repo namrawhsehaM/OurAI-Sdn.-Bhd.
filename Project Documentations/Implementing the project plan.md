@@ -7,7 +7,7 @@
 
 <- Back to [README.md](../README.md)<br/>
 <- Back to [Planning the project](Planning%20the%20project.md)<br/>
--> Proceed to [Executing the project](Executing%20the%20project.md)
+-> Proceed to [Completing the project](Completing%20the%20project.md)
        
 
 
