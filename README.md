@@ -9,7 +9,7 @@ This project is focused on improve the quality of life of an user by providing h
 In addition, this project also serves as a voice assistant so that users can communicate to the system, and the system responds to spoken commands. The system works based on Natural Language Processing techniques, so that the 
 system can capture, interpret and execute action based on user's voice command. We developed this system in the way it could understand and communicate with appropriate responses.
 
-Customer: Symphrio Sdn. Bhd.
+Customer: Symprio Sdn. Bhd.
 
 Project Name: Home Automation using Artificial Intelligence
 
@@ -132,12 +132,12 @@ Objectives:
 
 1. Customer Acceptance Form : 
 
-      ![image](https://user-images.githubusercontent.com/55396900/150163066-7d38c3d6-9f86-4917-9461-0e9fee3250cf.png)
+      ![image](https://user-images.githubusercontent.com/55396900/150536867-2f30df8b-4c84-467a-bff4-ffb648aaaebb.png)
 
 
 2. Lesson Learned Form : 
       
-      ![image](https://user-images.githubusercontent.com/55396900/150163376-fc3cd2fe-e897-4ff5-a148-aa64a0a4bcbf.png)
+      ![image](https://user-images.githubusercontent.com/55396900/150536822-70926af0-4c2c-4a21-80a0-04cd43681654.png)
 
 
 3. Final Project Report : 
@@ -179,7 +179,7 @@ Objectives:
 
 4. Close Contract : 
 
-      ![image](https://user-images.githubusercontent.com/55396900/150162653-fe0a0f64-5848-42f6-ba1e-b1759a3ee285.png)
+      ![image](https://user-images.githubusercontent.com/55396900/150536664-1a5a8dd5-b600-457d-9126-f11ae140a6da.png)
 
 
 
