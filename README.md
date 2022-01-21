@@ -96,6 +96,12 @@ Objectives:
 1. Design
 
 2. Coding
+      ![WhatsApp Image 2022-01-21 at 17 37 00](https://user-images.githubusercontent.com/55396900/150508819-9c71875b-3e50-40b8-914a-5e4dbf5888c3.jpeg)
+      ![WhatsApp Image 2022-01-21 at 17 37 15](https://user-images.githubusercontent.com/55396900/150508944-1fc39683-b338-4bbd-8ccf-e14ab67f30e2.jpeg)
+      ![WhatsApp Image 2022-01-21 at 17 37 43](https://user-images.githubusercontent.com/55396900/150509005-9a1bc4bb-9104-4740-a9b1-27d0207217c8.jpeg)
+      ![WhatsApp Image 2022-01-21 at 17 38 39](https://user-images.githubusercontent.com/55396900/150509410-15ceeb21-6d2a-416a-8e1a-1425c90eb059.jpeg)
+      ![WhatsApp Image 2022-01-21 at 17 38 11](https://user-images.githubusercontent.com/55396900/150509443-7737be1a-7e8b-4e43-9df9-88bfde2bc68e.jpeg)
+
 
 3. Result
 
