@@ -108,7 +108,7 @@ Objectives:
       ![WhatsApp Image 2022-01-21 at 17 38 11](https://user-images.githubusercontent.com/55396900/150509443-7737be1a-7e8b-4e43-9df9-88bfde2bc68e.jpeg)
 
 
-3. Result
+3. Result<br/>
    Waking up the system :
       ![wakeword](https://user-images.githubusercontent.com/55396900/150534464-a6535a1e-3c59-466b-ab4e-6f26af2da2b7.jpeg)
   
