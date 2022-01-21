@@ -109,6 +109,22 @@ Objectives:
 
 
 3. Result
+   Waking up the system :
+      ![wakeword](https://user-images.githubusercontent.com/55396900/150534464-a6535a1e-3c59-466b-ab4e-6f26af2da2b7.jpeg)
+  
+   Turning on/off light :
+      ![turn off](https://user-images.githubusercontent.com/55396900/150534538-8f405a96-d8e3-4e26-96d0-4b15ef5182a7.jpeg)
+      ![turn on](https://user-images.githubusercontent.com/55396900/150534546-3e8eeded-b591-45a7-9b8b-9ff45253d335.jpeg)
+      
+   Opening file explorer :
+      ![blinking](https://user-images.githubusercontent.com/55396900/150534657-1d6d9666-b279-49bb-973b-f8445a6d12a8.jpeg)
+      ![opening](https://user-images.githubusercontent.com/55396900/150534676-c679592b-7e38-40bc-9cfd-ce837b70e506.jpeg)
+  
+   Asking for a joke :
+      ![joke](https://user-images.githubusercontent.com/55396900/150534756-3a9ff7f1-4b8f-490b-9158-86b9868da569.jpeg)
+
+
+
 
 
 
