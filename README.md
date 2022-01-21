@@ -6,7 +6,7 @@ by: OurAI Sdn. Bhd.
 Project Summary:
 
 This project is focused on improve the quality of life of an user by providing home automation via voice command.
-In addition, this project also serves as a voice assistant so that users can communicate to the system audibly, and the system responds to spoken commands. The system works based on Natural Language Processing techniques, so that the 
+In addition, this project also serves as a voice assistant so that users can communicate to the system, and the system responds to spoken commands. The system works based on Natural Language Processing techniques, so that the 
 system can capture, interpret and execute action based on user's voice command. We developed this system in the way it could understand and communicate with appropriate responses.
 
 Customer: Symphrio Sdn. Bhd.
